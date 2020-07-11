@@ -1,0 +1,14 @@
+.Collapsible {
+    color: white;
+    background: black;
+    border: 2px solid red;
+}
+
+
+.Collapsible__contentInner {
+    color: black;
+    border: 4px solid blue;
+    background: darkslategray;
+    
+
+}
